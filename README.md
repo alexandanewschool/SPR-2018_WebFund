@@ -161,7 +161,7 @@ A Github account
 
 #### SLIDES
 
-Class slides can be found in the Wiki section, [here.](https://github.com/alexandanewschool/fall2017/wiki)
+Class slides can be found in the Wiki section, [here.](https://github.com/alexandanewschool/SPR-2018_WebFund/wiki)
 
 #### PROJECTS:
 
