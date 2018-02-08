@@ -1,6 +1,6 @@
 # LLSJ 2241: Web Fundamentals for Journalists
 
-6 East 16th Street Room: 1109
+63 Fifth Ave. Room: L100
 
 Thursdays from 6-7:50 pm
 
